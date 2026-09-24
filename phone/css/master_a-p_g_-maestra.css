@@ -1,0 +1,85 @@
+#u6385
+{
+	border-color: #000000;
+	background-color: #3E3E3E;
+}
+
+#u3593,#u6383,#u6388,#u6390
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u6392
+{
+	border-color: #000000;
+	-webkit-transform: matrix(0,1,-1,0,32,-19);
+	-ms-transform: matrix(0,1,-1,0,32,-19);
+	transform: matrix(0,1,-1,0,32,-19);
+	position: relative;
+	background: transparent url("../../images/hasen.gif") repeat-x left top;
+}
+
+#u6386
+{
+	border-color: #000000;
+	background-color: #022F3E;
+}
+
+#u6387-7
+{
+	background-color: transparent;
+	text-align: left;
+	font-size: 24px;
+	font-weight: bold;
+	position: relative;
+}
+
+#u6387
+{
+	line-height: 6px;
+	color: #2BDEFF;
+}
+
+#u6387-5
+{
+	line-height: 35px;
+	color: #FFFFFF;
+}
+
+#u6393-8
+{
+	background-color: transparent;
+	text-align: left;
+	font-weight: bold;
+	position: relative;
+}
+
+#u6387-7:hover p,#u6387-7:hover span,#u6393-8:hover p,#u6393-8:hover span
+{
+	color: #E21E79;
+	visibility: inherit;
+}
+
+#u6393
+{
+	line-height: 4px;
+	color: #2BDEFF;
+}
+
+#u6393-6
+{
+	line-height: 20px;
+	color: #FFFFFF;
+}
+
+#u6387-3,#u6393-3
+{
+	color: #2BDEFF;
+}
+
+#u6393-4
+{
+	color: #FFFFFF;
+}
+

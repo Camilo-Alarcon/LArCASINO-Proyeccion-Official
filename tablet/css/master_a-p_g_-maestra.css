@@ -1,0 +1,80 @@
+#u5052
+{
+	border-color: #000000;
+	background-color: #022F3E;
+}
+
+#u5053-8
+{
+	background-color: transparent;
+	text-align: left;
+	font-weight: bold;
+	position: relative;
+}
+
+#u5053
+{
+	line-height: 4px;
+	color: #2BDEFF;
+}
+
+#u5053-6
+{
+	line-height: 20px;
+	color: #FFFFFF;
+}
+
+#u5053-4
+{
+	color: #FFFFFF;
+}
+
+#u5063,#u5162,#u5059,#u6124,#u5057
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u5055-7
+{
+	background-color: transparent;
+	text-align: left;
+	font-weight: bold;
+	position: relative;
+}
+
+#u5053-8:hover p,#u5053-8:hover span,#u5055-7:hover p,#u5055-7:hover span
+{
+	color: #E21E79;
+	visibility: inherit;
+}
+
+#u5055
+{
+	font-size: 24px;
+	line-height: 6px;
+	color: #2BDEFF;
+}
+
+#u5055-5
+{
+	font-size: 22px;
+	line-height: 32px;
+	color: #FFFFFF;
+}
+
+#u5053-3,#u5055-3
+{
+	color: #2BDEFF;
+}
+
+#u5054,#u5056,#u6130
+{
+	border-color: #000000;
+	-webkit-transform: matrix(0,1,-1,0,43,-29);
+	-ms-transform: matrix(0,1,-1,0,43,-29);
+	transform: matrix(0,1,-1,0,43,-29);
+	position: relative;
+	background: transparent url("../../images/hasen.gif") repeat-x left top;
+}
+

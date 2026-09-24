@@ -1,0 +1,131 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="larc-en-cielchile.com" resolutions="1x" timestamp="1445803265445">
+  <folder name="css">
+    <file name="site_global.css" crc="4200435024"/>
+    <file name="master_a-p_g_-maestra.css" crc="486177854" ref="index"/>
+    <file name="index.css" crc="157967128" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>live-viewing-japan:phone>l-arcasino:phone>larc-en-ciel:phone>tickets:tablet>index:tablet>live-viewing-japan:tablet>l-arcasino:tablet>tickets:tablet>larc-en-ciel:index"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>live-viewing-japan:phone>l-arcasino:phone>larc-en-ciel:phone>tickets:tablet>index:tablet>live-viewing-japan:tablet>l-arcasino:tablet>tickets:tablet>larc-en-ciel:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="phone>index:phone>live-viewing-japan:phone>l-arcasino:phone>larc-en-ciel:phone>tickets:tablet>index:tablet>live-viewing-japan:tablet>l-arcasino:tablet>tickets:tablet>larc-en-ciel"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:phone>live-viewing-japan:phone>l-arcasino:phone>larc-en-ciel:phone>tickets:tablet>index:tablet>live-viewing-japan:tablet>l-arcasino:tablet>tickets:tablet>larc-en-ciel:index"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="phone>index:phone>live-viewing-japan:phone>l-arcasino:phone>larc-en-ciel:phone>tickets:tablet>index:tablet>live-viewing-japan:tablet>l-arcasino:tablet>tickets:tablet>larc-en-ciel"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>tickets:tablet>tickets:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>live-viewing-japan:phone>l-arcasino:phone>larc-en-ciel:phone>tickets:tablet>index:tablet>live-viewing-japan:tablet>l-arcasino:tablet>tickets:tablet>larc-en-ciel:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>live-viewing-japan:phone>l-arcasino:phone>larc-en-ciel:phone>tickets:tablet>index:tablet>live-viewing-japan:tablet>l-arcasino:tablet>tickets:tablet>larc-en-ciel"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="phone>l-arcasino:phone>tickets:tablet>l-arcasino:index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>l-arcasino:phone>tickets:tablet>l-arcasino:index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="phone>l-arcasino:phone>tickets:tablet>l-arcasino:index"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:tablet>live-viewing-japan:tablet>l-arcasino:tablet>tickets:tablet>larc-en-ciel:index"/>
+  </folder>
+  <folder name="images">
+    <file name="bg-tablet.jpg" crc="11399406" ref="phone>index:tablet>index"/>
+    <file name="header-crop-u3593.png" crc="370664525" ref="phone>index:phone>live-viewing-japan:phone>l-arcasino:phone>larc-en-ciel:phone>tickets"/>
+    <file name="menu-02.png" crc="498199232" seo="true" ref="phone>index:phone>live-viewing-japan:phone>l-arcasino:phone>larc-en-ciel:phone>tickets:tablet>index:tablet>live-viewing-japan:tablet>l-arcasino:tablet>tickets:tablet>larc-en-ciel"/>
+    <file name="title.png" crc="4064377103" seo="true" ref="phone>index"/>
+    <file name="footer-crop-u6383.png" crc="300859320" ref="phone>index:phone>live-viewing-japan:phone>l-arcasino:phone>larc-en-ciel:phone>tickets"/>
+    <file name="lvj-footer.png" crc="3887899842" seo="true" ref="phone>index:phone>live-viewing-japan:phone>l-arcasino:phone>larc-en-ciel:phone>tickets:index"/>
+    <file name="logo-cine.png" crc="4058130025" seo="true" ref="phone>index:phone>live-viewing-japan:phone>l-arcasino:phone>larc-en-ciel:phone>tickets"/>
+    <file name="hasen.gif" crc="4085158084" ref="phone>index:phone>tickets:tablet>index:index:phone>live-viewing-japan:tablet>live-viewing-japan"/>
+    <file name="01.png" crc="4082799393" ref="phone>live-viewing-japan:phone>tickets:tablet>live-viewing-japan:tablet>tickets:index"/>
+    <file name="lvj-title.png" crc="3805282577" seo="true" ref="phone>live-viewing-japan:tablet>live-viewing-japan:index"/>
+    <file name="lvj-logo-temp-website.jpg" crc="3781008974" seo="true" ref="phone>live-viewing-japan"/>
+    <file name="flyer-larcasino.jpg" crc="4124341595" seo="true" ref="phone>live-viewing-japan:tablet>live-viewing-japan:index"/>
+    <file name="line-b.gif" crc="93172391" ref="phone>live-viewing-japan:phone>tickets:tablet>live-viewing-japan:tablet>tickets:index"/>
+    <file name="02.png" crc="201505188" ref="phone>l-arcasino:phone>larc-en-ciel:tablet>l-arcasino:tablet>larc-en-ciel:index"/>
+    <file name="larcasino-title.png" crc="427147374" seo="true" ref="phone>l-arcasino:tablet>l-arcasino:index"/>
+    <file name="larcasino-01383x192.jpg" crc="234616647" seo="true" ref="phone>l-arcasino"/>
+    <file name="660_0921_002378x253.jpg" crc="352458934" seo="true" ref="phone>l-arcasino"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>l-arcasino:tablet>l-arcasino:index"/>
+    <file name="660_0921_003-crop-u4033.jpg" crc="4293187478" ref="phone>l-arcasino"/>
+    <file name="660_0921_005388x218.jpg" crc="470483969" seo="true" ref="phone>l-arcasino"/>
+    <file name="660_0921_006378x252.jpg" crc="520449432" seo="true" ref="phone>l-arcasino"/>
+    <file name="660_0922_01378x252.jpg" crc="17671373" seo="true" ref="phone>l-arcasino"/>
+    <file name="660_0922_02378x252.jpg" crc="82425736" seo="true" ref="phone>l-arcasino"/>
+    <file name="660_0922_03378x252.jpg" crc="4099000133" seo="true" ref="phone>l-arcasino"/>
+    <file name="660_0922_04378x252.jpg" crc="4172814005" seo="true" ref="phone>l-arcasino"/>
+    <file name="660_0922_05378x252.jpg" crc="4190410531" seo="true" ref="phone>l-arcasino"/>
+    <file name="660_0922_06-crop-u4043.jpg" crc="3972506533" ref="phone>l-arcasino"/>
+    <file name="660_0922_07378x252.jpg" crc="4281613258" seo="true" ref="phone>l-arcasino"/>
+    <file name="12095297_966215473436817_2340107800503442897_o.jpg" crc="378241479" seo="true" ref="phone>l-arcasino:tablet>l-arcasino:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>l-arcasino:tablet>l-arcasino:index"/>
+    <file name="line-y.gif" crc="103176499" ref="phone>l-arcasino:phone>larc-en-ciel:tablet>l-arcasino:tablet>larc-en-ciel:index"/>
+    <file name="larcenciel-title.png" crc="3809081284" seo="true" ref="phone>larc-en-ciel:tablet>larc-en-ciel:index"/>
+    <file name="larc-en-ciel380x256.jpg" crc="3773419970" seo="true" ref="phone>larc-en-ciel"/>
+    <file name="ticket-title.png" crc="314156664" seo="true" ref="phone>tickets:tablet>tickets:index"/>
+    <file name="bg2.png" crc="458447212" ref="phone>tickets:tablet>tickets:index"/>
+    <file name="fichacine_lr.jpg" crc="4288892434" seo="true" ref="phone>tickets:index"/>
+    <file name="carousel-a-index-a.png" crc="3803295498" ref="phone>tickets"/>
+    <file name="cine-hoyts2-crop-u5670.jpg" crc="3810141080" ref="phone>tickets"/>
+    <file name="header-crop-u5063.png" crc="205535186" ref="tablet>index:tablet>live-viewing-japan:tablet>l-arcasino:tablet>tickets:tablet>larc-en-ciel"/>
+    <file name="logo.png" crc="3966671399" seo="true" ref="tablet>index"/>
+    <file name="footer-crop-u5162.png" crc="3906177622" ref="tablet>index:tablet>live-viewing-japan:tablet>l-arcasino:tablet>tickets:tablet>larc-en-ciel"/>
+    <file name="logo-footer.png" crc="3876985143" seo="true" ref="tablet>index:tablet>live-viewing-japan:tablet>l-arcasino:tablet>tickets:tablet>larc-en-ciel:index"/>
+    <file name="lvj-footer-2.png" crc="248150319" seo="true" ref="tablet>index:tablet>live-viewing-japan:tablet>l-arcasino:tablet>tickets:tablet>larc-en-ciel"/>
+    <file name="hoyts-logo.png" crc="95541228" seo="true" ref="tablet>index:tablet>live-viewing-japan:tablet>l-arcasino:tablet>tickets:tablet>larc-en-ciel:index"/>
+    <file name="lvj-logo.jpg" crc="3781008974" seo="true" ref="tablet>live-viewing-japan:index"/>
+    <file name="larcasino-01.jpg" crc="12647506" seo="true" ref="tablet>l-arcasino:index"/>
+    <file name="660_0921_002428x286.jpg" crc="4085612691" seo="true" ref="tablet>l-arcasino"/>
+    <file name="660_0921_003-crop-u5280.jpg" crc="213024805" ref="tablet>l-arcasino"/>
+    <file name="660_0921_005.jpg" crc="4034149840" seo="true" ref="tablet>l-arcasino:index"/>
+    <file name="660_0921_006428x285.jpg" crc="3865161580" seo="true" ref="tablet>l-arcasino"/>
+    <file name="660_0922_01429x285.jpg" crc="3862275792" seo="true" ref="tablet>l-arcasino"/>
+    <file name="660_0922_02428x285.jpg" crc="3980203411" seo="true" ref="tablet>l-arcasino"/>
+    <file name="660_0922_03429x285.jpg" crc="3964874906" seo="true" ref="tablet>l-arcasino"/>
+    <file name="660_0922_04429x285.jpg" crc="4172814005" seo="true" ref="tablet>l-arcasino"/>
+    <file name="660_0922_05428x285.jpg" crc="344341262" seo="true" ref="tablet>l-arcasino"/>
+    <file name="660_0922_06-crop-u5272.jpg" crc="54761400" ref="tablet>l-arcasino"/>
+    <file name="660_0922_07428x285.jpg" crc="4281613258" seo="true" ref="tablet>l-arcasino"/>
+    <file name="fichacine_lr2.jpg" crc="4288892434" seo="true" ref="tablet>tickets"/>
+    <file name="cine-hoyts2-crop-u5536.jpg" crc="3810141080" ref="tablet>tickets"/>
+    <file name="larc-en-ciel383x258.jpg" crc="3915949667" seo="true" ref="tablet>larc-en-ciel"/>
+    <file name="bg.jpg" crc="3786071054" ref="index"/>
+    <file name="menu.png" crc="350613289" seo="true" ref="index"/>
+    <file name="header.png" crc="4152393222" seo="true" ref="index"/>
+    <file name="footer.png" crc="199693863" seo="true" ref="index"/>
+    <file name="660_0921_002.jpg" crc="274808556" seo="true" ref="index"/>
+    <file name="660_0921_003-crop-u2748.jpg" crc="3868830579" ref="index"/>
+    <file name="660_0921_006.jpg" crc="3865161580" seo="true" ref="index"/>
+    <file name="660_0922_01.jpg" crc="137498970" seo="true" ref="index"/>
+    <file name="660_0922_02.jpg" crc="3980203411" seo="true" ref="index"/>
+    <file name="660_0922_03.jpg" crc="3964874906" seo="true" ref="index"/>
+    <file name="660_0922_04.jpg" crc="4172814005" seo="true" ref="index"/>
+    <file name="660_0922_05.jpg" crc="344341262" seo="true" ref="index"/>
+    <file name="660_0922_06-crop-u2730.jpg" crc="4109386573" ref="index"/>
+    <file name="660_0922_07.jpg" crc="4281613258" seo="true" ref="index"/>
+    <file name="cine-hoyts2-crop-u2969.jpg" crc="3810141080" ref="index"/>
+    <file name="larc-en-ciel.jpg" crc="63325449" seo="true" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="3868658616" ref="tablet>live-viewing-japan:tablet>index:tablet>larc-en-ciel:tablet>l-arcasino:tablet>tickets"/>
+      <file name="live-viewing-japan.css" crc="477999945" ref="tablet>live-viewing-japan"/>
+      <file name="index.css" crc="4159770292" ref="tablet>index"/>
+      <file name="larc-en-ciel.css" crc="303276614" ref="tablet>larc-en-ciel"/>
+      <file name="l-arcasino.css" crc="4234426894" ref="tablet>l-arcasino"/>
+      <file name="tickets.css" crc="423140468" ref="tablet>tickets"/>
+    </folder>
+    <file name="index.html" crc="41482698" seo="true" mt="1445646966243" redirect="true"/>
+    <file name="live-viewing-japan.html" crc="4221518936" seo="true" mt="1445803011337" redirect="true"/>
+    <file name="l-arcasino.html" crc="216430588" seo="true" mt="1445802988734" redirect="true"/>
+    <file name="tickets.html" crc="399142375" seo="true" mt="1445646966243" redirect="true"/>
+    <file name="larc-en-ciel.html" crc="328002870" seo="true" mt="1445646966243" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="3951895947" ref="phone>l-arcasino:phone>index:phone>larc-en-ciel:phone>tickets:phone>live-viewing-japan"/>
+      <file name="l-arcasino.css" crc="32856658" ref="phone>l-arcasino"/>
+      <file name="index.css" crc="351406594" ref="phone>index"/>
+      <file name="larc-en-ciel.css" crc="192948215" ref="phone>larc-en-ciel"/>
+      <file name="tickets.css" crc="115483282" ref="phone>tickets"/>
+      <file name="live-viewing-japan.css" crc="3927918620" ref="phone>live-viewing-japan"/>
+    </folder>
+    <file name="index.html" crc="4267499572" seo="true" mt="1445646952409" redirect="true"/>
+    <file name="live-viewing-japan.html" crc="4205233827" seo="true" mt="1445803005579" redirect="true"/>
+    <file name="l-arcasino.html" crc="4056615163" seo="true" mt="1445803062229" redirect="true"/>
+    <file name="larc-en-ciel.html" crc="3825803061" seo="true" mt="1445646952409" redirect="true"/>
+    <file name="tickets.html" crc="512870390" seo="true" mt="1445646952409" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4122099993" seo="true" mt="1445803195603" redirect="true"/>
+</manifest>
